@@ -4,6 +4,10 @@
   status: fail
 
 - summary: |
+    Проверка работы меню категории
+  status: fail
+    
+- summary: |
     Проверка сортировки производителей по категориям
   status: pass
 
