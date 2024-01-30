@@ -1,82 +1,82 @@
 ---
 test-cases:
-    - summary: |
+  - summary: |
       Проверка фильтра по ключевому слову
     status: fail
 
-    - summary: |
+  - summary: |
       Проверка сортировки по категории
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка отображения списка категорий при переключении страниц
     status: fail
     
-    - summary: |
+  - summary: |
       Проверка сортировки товара по категориям и производителям 
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка сортировки товаров по наличию
     status: fail
 
-    - summary: |
+  - summary: |
       Проверка сортировки товара по категориям и производителям 
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка сортировки товаров по наличию
     status: fail
 
-    - summary: |
+  - summary: |
       Проверка фильтра по цене
     status: fail
 
-    - summary: |
+  - summary: |
       Добавление товара в корзину
     status: pass
 
-    - summary: |
+  - summary: |
       Увеличение и уменьшение количества товара в корзине
     status: fail
 
-    - summary: |
+  - summary: |
       Оформление заказа
     status: fail
     
-    - summary: |
+  - summary: |
       Удаление товара из корзины
     status: pass
 
-    - summary: |
+  - summary: |
       Очистить всю корзину
     status: pass
     
-    - summary: |
+  - summary: |
       Просмотр карточки товара
     status: pass
 
-    - summary: |
+  - summary: |
       Возврат в список товаров из корзины 
     status: pass
 
-    - summary: |
+  - summary: |
       Смена языка
     status: pass 
 
-    - summary: |
+  - summary: |
       Переключение страниц интернет магазина
     status: fail
 
-    - summary: |
+  - summary: |
       Переключение страниц интернет магазина с возможностью перехода на определенную страницу
     status: fail
 
-    - summary: |
+  - summary: |
       Проверка загрузки картинок и иконок
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка работы ссылки категории в карточке товара
     status: pass
 
